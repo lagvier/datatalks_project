@@ -61,9 +61,9 @@ pip install -r requirements.txt
 ```
 - Download the Google Cloud key , create CREDS folder within the root directory and put the key in it.
 
-- 
 
-# start mage and access it at http://localhost:6789/
+
+- start mage and access it at http://localhost:6789/
 ```
 mage start mage 
 ```
