@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 
 
-- start mage and access it at http://localhost:6789/
+- start mage with the command below then access it at http://localhost:6789/
 ```
 mage start mage 
 ```
