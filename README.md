@@ -48,12 +48,12 @@ https://lookerstudio.google.com/reporting/052d842e-b4b1-4c3c-8922-b67aa435bb0d
 - Configure the Google cloud permissions if you have not already done so and download the key. You can refer to this [guide]() if you do not already know how to do it..
 
 ```
-git clone git@github.com:lagvier/datatalks_project.git
-cd datatalks_project
-
 # create and activate the virtual environment
 python venv env
 env\Scripts\activate
+
+git clone git@github.com:lagvier/datatalks_project.git
+cd datatalks_project
 
 # install required libraries
 pip install -r requirements.txt
